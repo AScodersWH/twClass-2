@@ -1,0 +1,88 @@
+.Container{
+	border-width:5px;
+	border-style:solid;
+	border-color:#EF087B;
+	font-size:18px;
+	width:1000px;
+    margin:0 auto;
+	padding:10px 10px 10px 10px;
+	box-sizing:border-box;
+}
+.Main_Info{
+	border:2px;
+	border-style:solid;
+	border-color:#CCC;
+	margin:15px auto;
+	border-radius:3px;
+}
+.Subject{
+	border:2px;
+	border-style:solid;
+	border-color:#CCC;
+	margin:15px auto;
+	border-radius:5px;
+}
+h1{
+	margin:10px auto;
+	text-align:center;
+}
+ul{
+	list-style:none;
+}
+.Subject{
+	padding-bottom:10px;
+	line-height:150%;
+}
+input{
+	padding:5px; 
+	border-width:1px;
+	border-radius:3px;
+}
+li{
+	padding:10px 0 10px 0;
+	font-weight:bolder;
+}
+ol{
+	margin:0;
+}
+.Main_Info li{
+	font-weight:normal;
+	display:inline-block;
+	padding:6px 0px 6px 0px;
+	width:800px;
+	
+}
+.Main_Info input{
+	border-radius:3px;
+	width:100px;
+}
+
+.Subject_Name{
+	background-color:#E6E6E6;
+	margin:0;
+	padding:15px 10px 15px 10px;
+	padding-color:#E6E6E6;
+	font-size:18px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight:bolder;
+}
+
+.green{
+	color:green;
+    font-wight:bolder;
+}
+.red{
+	color:red;
+	font-wight:bolder;
+}
+.Button_Counter{
+    background-color:#C3C3C3;
+    color:#000000;
+    padding: 8px 20px 8px 20px;
+    text-align:center;
+	font-size:18px;
+    cursor: pointer;
+    border-radius:50px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight:bolder;
+}
